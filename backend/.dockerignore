@@ -1,0 +1,8 @@
+# Environments
+venv
+.env
+
+.git
+
+# BD
+db.sqlite3 
